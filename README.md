@@ -9,10 +9,10 @@ If you've never experienced client-side web development, learning the plethora o
 
 ## Courses
 
-### [Introducing HTML](https://github-open-academy.github.io/#/beanmoss/Introducing-html)
-### [Styling your HTML](https://github-open-academy.github.io/#/beanmoss/Introducing-html)
-### [Javascript](https://github-open-academy.github.io/#/beanmoss/Introducing-html)
-### [JQuery](https://github-open-academy.github.io/#/beanmoss/Introducing-html)
+### [Introducing HTML](/#/beanmoss/Introducing-html)
+### [Styling your HTML](/#/beanmoss/Introducing-html)
+### [Javascript](/#/beanmoss/Introducing-html)
+### [JQuery](/#/beanmoss/Introducing-html)
 
 
 
