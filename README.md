@@ -16,7 +16,7 @@ Here's how:
 
  1. Fork this [repo](https://github.com/github-open-academy/fork-me).
  2. Edit the repository name. Repo name will serve as the title of the curated content.
- 3. Edit README.md. This file serves as content introduction.
+ 3. Edit README.md. This file serves as content introduction. You can use online markdown editor like [stackedit.io](https://stackedit.io).
  4. Edit playlist.json according to your course's playlist. For now, only Youtube videos are supported so please use video id as ytId.
 
 ## Help us improve the page
