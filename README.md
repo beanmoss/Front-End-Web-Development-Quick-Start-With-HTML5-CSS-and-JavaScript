@@ -1,19 +1,24 @@
+## Welcome to Odemy!
 
-# Front-End Web Development Quick Start With HTML5, CSS, and JavaScript
+[Odemy](https://github-open-academy.github.io) is a server less open source learning platform hosted here at github pages using github repositories as content store.
 
-For the beginner, starting to learn web development can be daunting. In this course, Shawn Wildermuth shows you step-by-step how to use client-side web development techniques to create immersive web sites.
+## How do I add my content?
 
-## Description
+It's super easy to add your content be it a tutorial or a course for a particular topic. Odemy makes use of Git feature called **Fork** where users "copy" a specific repo to their own account.
 
-If you've never experienced client-side web development, learning the plethora of technologies can be difficult. Trying to get started in a quick fashion can be daunting. But by learning the basics and how they work together, you can get up to speed quickly. In this course, Shawn Wildermuth will walk you through the basics of client-side web development by showing you the basics of how to build web pages with HTML, Cascading Style Sheets, JavaScript, and jQuery. This course is set up to be the starting point of learning web development.
+> A _fork_ is a copy of a repository. Forking a repository allows you to
+> freely experiment with changes without affecting the original project.
+> [Reference](https://help.github.com/articles/fork-a-repo/)
 
-## Courses
+All forks of the [original repo/project](https://github.com/github-open-academy/fork-me) will then be listed in Odemy.
 
-### [Introducing HTML](/#/beanmoss/Introducing-html)
-### [Styling your HTML](/#/beanmoss/Introducing-html)
-### [Javascript](/#/beanmoss/Introducing-html)
-### [JQuery](/#/beanmoss/Introducing-html)
+Here's how:
 
+ 1. Fork this [repo](https://github.com/github-open-academy/fork-me).
+ 2. Edit the repository name. Repo name will serve as the title of the curated content.
+ 3. Edit README.md. This file serves as content introduction.
+ 4. Edit playlist.json according to your course's playlist. For now, only Youtube videos are supported so please use video id as ytId.
 
+## Help us improve the page
 
-
+Anyone can help contribute in improving Odemy github pages by forking this [repo](https://github.com/github-open-academy/github-open-academy.github.io).
